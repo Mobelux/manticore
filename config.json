@@ -4,6 +4,9 @@
   "navigation": [
     {
       "name": "Overview"
+    },
+    {
+      "name": "Test Heading"
     }
   ]
 }
