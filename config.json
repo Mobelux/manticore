@@ -1,0 +1,9 @@
+{
+  "Authors": ["Nick Schwab"],
+  "languages": ["en"],
+  "navigation": [
+    {
+      "name": "Overview"
+    }
+  ]
+}
